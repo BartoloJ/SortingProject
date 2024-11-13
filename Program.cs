@@ -20,7 +20,7 @@
 
         
 
-        static void Print(int[] arr)
+        public static void Print(int[] arr)
         {
             foreach (int i in arr)
             {
